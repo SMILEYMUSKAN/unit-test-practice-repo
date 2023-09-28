@@ -2,12 +2,12 @@
 
 ### Adding '--coverage' to scripts 'npm run test' command  in package.json
 
-`
+```json
 "scripts": {
-    "test": "react-scripts test **--coverage**",
-  },
+    "test": "react-scripts test **--coverage**"
+  }
+```
 
-`
 
 ### Command to install http-server
 
