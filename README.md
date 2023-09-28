@@ -4,7 +4,7 @@
 
 ```json
 "scripts": {
-    "test": "react-scripts test **--coverage**"
+    "test": "react-scripts test --coverage"
   }
 ```
 
